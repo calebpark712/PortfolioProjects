@@ -5,7 +5,7 @@ This repository will be updated on a project-completion basis.
 
 Skills/languages/programs you can find in this repository are: **MSSQL and Excel.**
 
-For all of my projects, please see: [LINK](https://calebpark712.github.io/)
+For all of my projects, please see: [HERE](https://calebpark712.github.io/)
 
 You can reach me at calebpark712@gmail.com for any inquiries or questions.
 
